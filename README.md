@@ -29,5 +29,10 @@ A 19yr Geeky Developer Who Loves to </> Code and Build New Things.  <br><br>
 
 <br>WorkSpace Specs</b><br>
 <img src="https://img.shields.io/badge/AMD-Ryzen%207%205700u-red">
+<img src="https://img.shields.io/badge/AMD-Radeon%20Vega%20Graphics-red">
+<img src="https://img.shields.io/badge/RAM-8%20GB-blue">
+<img src="https://img.shields.io/badge/Microsoft-Window%2010-blue">
+<img src="https://img.shields.io/badge/Lenovo-Idepad-blueviolet">
+
 <hr>
 <img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
