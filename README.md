@@ -7,8 +7,6 @@ A 19yr Geeky Developer Who Loves to </> Code and Build New Things.  <br><br>
 
 [![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinayofc&show_icons=true&theme=tokyonight&locale=en)](https://github.com/vinayofc/github-readme-stats&show_icons=true&theme=tokyonight&locale=en)
 
-<img src="https://starchart.cc/{username}/{repo}.svg">
-
 <b>My Social Handles ✨</b><br>
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://devvinay.in/)
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/vinayofc)
@@ -28,5 +26,5 @@ A 19yr Geeky Developer Who Loves to </> Code and Build New Things.  <br><br>
 [![razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)](https://devvinay.in/)
 [![coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://devvinay.in/)
 
-
+<hr>
 <img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
