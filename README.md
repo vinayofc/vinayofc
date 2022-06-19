@@ -1,4 +1,4 @@
-<h1 align="center">Hoi 👋</h1>
+<h1 align="center">Hello 👋</h1>
 
 A 19yr Geeky Developer Who Loves to </> Code and Build New Things. 
 
