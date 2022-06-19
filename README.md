@@ -7,7 +7,7 @@ A 19yr Geeky Developer Who Loves to </> Code and Build New Things.  <br><br>
 
 [![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinayofc&show_icons=true&theme=tokyonight&locale=en)](https://github.com/vinayofc/github-readme-stats&show_icons=true&theme=tokyonight&locale=en)
 
-https://starchart.cc/{username}/{repo}.svg
+<img src="https://starchart.cc/{username}/{repo}.svg">
 
 <b>My Social Handles ✨</b><br>
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://devvinay.in/)
