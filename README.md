@@ -21,10 +21,13 @@ A 19yr Geeky Developer Who Loves to </> Code and Build New Things.  <br><br>
 [![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://devvinay.in/contact)
 
 <b>Suppport 🤝</b><br>
-[![paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://devvinay.in/)
-[![paytm](https://img.shields.io/badge/Paytm-002970?style=for-the-badge&logo=paytm&logoColor=00BAF2)](https://devvinay.in/)
+[![paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/itsvinaychaudhary)
+[![paytm](https://img.shields.io/badge/Paytm-002970?style=for-the-badge&logo=paytm&logoColor=00BAF2)](https://devvinay.in/go/upi)
 [![razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)](https://devvinay.in/)
 [![coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://devvinay.in/)
 
+
+<br>WorkSpace Specs</b><br>
+<img src="https://img.shields.io/badge/AMD-Ryzen%207%205700u-red">
 <hr>
 <img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
