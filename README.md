@@ -9,5 +9,5 @@ A 19yr Geeky Developer Who Loves to </> Code and Build New Things.  <br><br>
 
 <b>My Social Handles 💬</b><br>
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://devvinay.in/)
-[![portfolio]([https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white))]([https://devvinay.in/](https://www.facebook.com/vinayofc))
+[![portfolio]([https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white))](https://devvinay.in/)
 
