@@ -1,6 +1,4 @@
-<h1 align="center">Heya 👋</h1>
-
-# Vinay Chaudhary
+<h1 align="center">Hoi 👋</h1>
 
 A 19yr Geeky Developer Who Loves to </> Code and Build New Things. 
 
