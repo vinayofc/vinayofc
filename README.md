@@ -9,3 +9,5 @@ A 19yr Geeky Developer Who Loves to </> Code and Build New Things.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinayofc)](https://github.com/vinayofc/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayofc)](https://github.com/vinayofc/github-readme-stats)
