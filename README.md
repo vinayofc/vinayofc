@@ -27,7 +27,7 @@ A 19yr Geeky Developer Who Loves to </> Code and Build New Things.  <br><br>
 [![coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://devvinay.in/)
 
 
-<br>WorkSpace Specs</b><br>
+<b>WorkSpace Specs 💻</b><br>
 <img src="https://img.shields.io/badge/AMD-Ryzen%207%205700u-red">
 <img src="https://img.shields.io/badge/AMD-Radeon%20Vega%20Graphics-red">
 <img src="https://img.shields.io/badge/RAM-8%20GB-blue">
