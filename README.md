@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋</h1>
 <b>About Myself</b><br>
-A 19yr Geeky Developer Who Loves to </> Code and Build New Things. 
+A 19yr Geeky Developer Who Loves to </> Code and Build New Things.  <br>
 
 ![](https://komarev.com/ghpvc/?username=vinayofc&color=blueviolet)
 
