@@ -20,3 +20,6 @@ A 19yr Geeky Developer Who Loves to </> Code and Build New Things.  <br><br>
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+15717105163)
 [![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://devvinay.in/contact)
 
+<b>Suppport 🤝</b><br>
+[![paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://devvinay.in/)
+[![paytm](https://img.shields.io/badge/Paytm-002970?style=for-the-badge&logo=paytm&logoColor=00BAF2)](https://devvinay.in/)
